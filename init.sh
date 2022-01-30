@@ -91,5 +91,9 @@ then
 fi
 
 echo 
+echo "Don't Forget:"
+echo " - You may wish to configure your git credentials and add your personal access token"
+echo " - There maybe additional scripts you may wish to run for your setup"
+echo 
 
 echo "Thank you for using the setup development environment script"
